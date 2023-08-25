@@ -1,4 +1,4 @@
 # AIChief
 Static website prototype for AI Chief
 
-Team: Anaïs Gilbert and Nitish Patel 
+Team: Anaïs Gilbert and Nishit Patel 
